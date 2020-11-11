@@ -38,7 +38,9 @@ Sur les valeurs de temps:
 
 ## Authentification/Securisation
 Vous devez implétementer un système de sécurité de votre choix pour votre API (access token) pour les actions du CRUD les plus sensibles.
-
+https://github.com/gonzalo-bulnes/simple_token_authentication
+https://github.com/oauth-xx/oauth2
+https://github.com/doorkeeper-gem/doorkeeper
 
 ## Design App Consommatrice (bonus 3 points)
 Designez votre app consommatrice en utilisant css et javascript pour la rendre plus attractive.
@@ -64,7 +66,7 @@ Vous devez utilisé Posgresql combiné à Active record
 
 
 ## Tests unitaires (bonus: 3 points)
-Un projet de test unitaire devra être réalisé pour au moins un service d'API et votre Application de consommation.
+Un projet de test unitaire et test systems pourra être réalisé pour au moins un service d'API et votre Application de consommation.
 
 
 ## Web API
