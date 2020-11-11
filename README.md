@@ -17,7 +17,7 @@ Lors du développement de l'API, le développeur devra créer un minimum de fich
 
 ## Application Consommatrice
 Vous devez creer une app Ruby On Rails qui consommera votre API. Cette app peut être inclus dans votre projet API ou être séparée. Cette app doit contenir tout les points abordés en cours. Cette app doit être hébergée sur Heroku.
-De type CRUD, votre application sera interactive dans la consommation de votre API. Cett application doit être sécurisées (authentification, authorisation).
+De type CRUD, votre application sera interactive dans la consommation de votre API. Cette application doit être sécurisées grâce aux outils vus en cours.
 
 ## Filtres
 Vous devrez inclure dans votre API un filtre générique sous la forme suivante: http://xxxxx.com/catalog/v1/products?type=pizza,pates&rating=4,5&days=sunday
@@ -36,8 +36,8 @@ Sur les valeurs de temps:
 - l'utilisateur peut rechercher des fourchettes de valeurs,  ex les produits créés entre le 04/04/2020 et le 05/05/2020 (createdat=[04-04-2020,05-05-2020])
 
 
-## Authentification
-Vous devez implétementer une authentification OAuth2 ou utiliser la gem simple_token_authentication dans votre API pour les actions du CRUD les plus sensibles.
+## Authentification/Securisation
+Vous devez implétementer un système de sécurité de votre choix pour votre API (access token) pour les actions du CRUD les plus sensibles.
 
 
 ## Design App Consommatrice (bonus 3 points)
