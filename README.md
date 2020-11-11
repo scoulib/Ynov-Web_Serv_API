@@ -1,5 +1,3 @@
-# Ynov-Web_Serv_API
-
 # Projet Web API
 
 Vous allez faire un projet de web api utilisant Ruby On Rails.
