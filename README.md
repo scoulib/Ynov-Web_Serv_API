@@ -29,12 +29,19 @@ Sur les valeurs numériques:
 - l'utilisateur peut rechercher une valeur fixe (rating=4)
 - l'utilisateur peut rechercher plusieurs valeurs,  ex les produits de rating '4' ou '5' (rating=4,5)
 - l'utilisateur peut rechercher des fourchettes de valeurs,  ex les produits de rating compris en '4' et '10' (rating=[4,10])
+- l'utilisateur peut rechercher des valeurs inférieurs ou égal,  ex les produits de rating inférieur ou egal à '10' (rating=[,10])
+- l'utilisateur peut rechercher des valeurs supérieurs ou égal,  ex les produits de rating séperieur ou égal à '4' (rating=[4,])
 
 Sur les valeurs de temps:
 - l'utilisateur peut rechercher une valeur fixe (createdat=04-04-2020)
 - l'utilisateur peut rechercher plusieurs valeurs,  ex les produits créés le 04/04/2020 ou le 05/05/2020 (createdat=04-04-2020,05-05-2020)
 - l'utilisateur peut rechercher des fourchettes de valeurs,  ex les produits créés entre le 04/04/2020 et le 05/05/2020 (createdat=[04-04-2020,05-05-2020])
+- l'utilisateur peut rechercher des valeurs inférieurs ou égal,  ex les produits créés avant le 05/05/2020 (createdat=[,05-05-2020])
+- l'utilisateur peut rechercher des valeurs supérieurs ou égal,  ex les produits créés après le 04/04/2020 (createdat=[04-04-2020,])
 
+## Recherche
+Vous devrez inclure dans votre librairie une recherche générique sous la forme suivante: http://xxxxx/catalog/v1/products/search?name=*napoli*&type=pizza,pate&sort=rating,name
+Lors du développement de l'API, le développeur devra créer un minimum de fichier et de ligne de code pour implémenter la recherche.
 
 ## Authentification/Securisation
 Vous devez implétementer un système de sécurité de votre choix pour votre API (access token) pour les actions du CRUD les plus sensibles.
@@ -42,38 +49,21 @@ https://github.com/gonzalo-bulnes/simple_token_authentication
 https://github.com/oauth-xx/oauth2
 https://github.com/doorkeeper-gem/doorkeeper
 
-## Design App Consommatrice (bonus 3 points)
-Designez votre app consommatrice en utilisant css et javascript pour la rendre plus attractive.
-
-
-## Plus de filtres (bonus 3 points)
-Sur les valeurs numériques:
-- l'utilisateur peut rechercher des valeurs inférieurs ou égal,  ex les produits de rating inférieur ou egal à '10' (rating=[,10])
-- l'utilisateur peut rechercher des valeurs supérieurs ou égal,  ex les produits de rating séperieur ou égal à '4' (rating=[4,])
-
-Sur les valeurs de temps:
-- l'utilisateur peut rechercher des valeurs inférieurs ou égal,  ex les produits créés avant le 05/05/2020 (createdat=[,05-05-2020])
-- l'utilisateur peut rechercher des valeurs supérieurs ou égal,  ex les produits créés après le 04/04/2020 (createdat=[04-04-2020,])
-
-
-## Recherche
-Vous devrez inclure dans votre librairie une recherche générique sous la forme suivante: http://xxxxx/catalog/v1/products/search?name=*napoli*&type=pizza,pate&sort=rating,name
-Lors du développement de l'API, le développeur devra créer un minimum de fichier et de ligne de code pour implémenter la recherche.
-
-
 ## Base de données
 Vous devez utilisé Posgresql combiné à Active record
-
-
-## Tests unitaires (bonus: 3 points)
-Un projet de test unitaire et test systems pourra être réalisé pour au moins un service d'API et votre Application de consommation.
-
 
 ## Web API
 Vous devrez réaliser la doc de l'API avec SwaggerUI et plus particulierement la gem swagger-docs [aide](https://github.com/richhollis/swagger-docs)
 
 ## Hébergement
 Votre/Vos projet devra/ont être hébergé/s sur Héroku
+
+
+## Tests unitaires (bonus: 3 points)
+Un projet de test unitaire et test systems pourra être réalisé pour au moins un service d'API et votre Application de consommation.
+
+## Design App Consommatrice (bonus 3 points)
+Designez votre app consommatrice en utilisant css et javascript pour la rendre plus attractive.
 
 
 # Groupes et fonctionnement
