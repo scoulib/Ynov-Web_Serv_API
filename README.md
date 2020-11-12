@@ -98,9 +98,15 @@ La soutenance dure 20 minutes durant lesquelles les membres présentent leur tra
 
 # Groupes et fonctionnement
 FONTON Aros - David Ly | Black&Yellow
+
 IBIRIZ Noura - SOUSSAN Jimmy | DLM
+
 STAES Pierrick - GIRARD Yohan | Groupe 1
+
 MARTEAU Antoine - SAUMUROT Florian | Les Ksos
+
 RALAIMIADANA Tanguy - EL GANA Bastien | Les imposteurs
+
 DOS SANTOS Nicolas - FROMENTIN Victor | MyWatchList
+
 ROBLES Jeremie - NOEL Alexis | Les inconnus
