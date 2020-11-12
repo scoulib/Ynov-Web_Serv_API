@@ -95,3 +95,12 @@ Les fichiers rendus peuvent aussi comprendre:
   - Des documents de recherche créés pour le projet et fournissant plus de détails pour l'enseignant.
 Pour tout autre type de fichier, veuillez demander à l'enseignant si son inclusion est appropriée.
 La soutenance dure 20 minutes durant lesquelles les membres présentent leur travail. Un échange de questions peut se faire entre le professeur et les membres du groupe.
+
+# Groupes et fonctionnement
+FONTON Aros - David Ly | Black&Yellow
+IBIRIZ Noura - SOUSSAN Jimmy | DLM
+STAES Pierrick - GIRARD Yohan | Groupe 1
+MARTEAU Antoine - SAUMUROT Florian | Les Ksos
+RALAIMIADANA Tanguy - EL GANA Bastien | Les imposteurs
+DOS SANTOS Nicolas - FROMENTIN Victor | MyWatchList
+ROBLES Jeremie - NOEL Alexis | Les inconnus
