@@ -97,9 +97,9 @@ Pour tout autre type de fichier, veuillez demander à l'enseignant si son inclus
 La soutenance dure 20 minutes durant lesquelles les membres présentent leur travail. Un échange de questions peut se faire entre le professeur et les membres du groupe.
 
 # Groupes et fonctionnement
-FONTON Aros - David Ly | Black&Yellow
+FONTON Aros - LY David | Black&Yellow
 
-IBIRIZ Noura - SOUSSAN Jimmy | DLM
+IBIRIZ Noura - SOUSSAN Jimmy - TAVARES SEMEDO Gaëtan | DLM
 
 STAES Pierrick - GIRARD Yohan | Groupe 1
 
@@ -110,3 +110,5 @@ RALAIMIADANA Tanguy - EL GANA Bastien | Les imposteurs
 DOS SANTOS Nicolas - FROMENTIN Victor | MyWatchList
 
 ROBLES Jeremie - NOEL Alexis | Les inconnus
+
+COULIBALY Souleymane - LUPITISA MAYIKA Christ-Vie | ??
