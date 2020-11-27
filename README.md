@@ -97,18 +97,18 @@ Pour tout autre type de fichier, veuillez demander à l'enseignant si son inclus
 La soutenance dure 20 minutes durant lesquelles les membres présentent leur travail. Un échange de questions peut se faire entre le professeur et les membres du groupe.
 
 # Groupes et fonctionnement
-FONTON Aros - LY David | Black&Yellow
+FONTON Aros - LY David | Black&Yellow - 9h30
 
-IBIRIZ Noura - SOUSSAN Jimmy - TAVARES SEMEDO Gaëtan | DLM
+IBIRIZ Noura - SOUSSAN Jimmy - TAVARES SEMEDO Gaëtan | DLM - 10h10
 
-STAES Pierrick - GIRARD Yohan | Groupe 1
+STAES Pierrick - GIRARD Yohan | Groupe 1 - 10h50
 
-MARTEAU Antoine - SAUMUROT Florian | Les Ksos
+MARTEAU Antoine - SAUMUROT Florian | Les Ksos - 11h30
 
-RALAIMIADANA Tanguy - EL GANA Bastien | Les imposteurs
+RALAIMIADANA Tanguy - EL GANA Bastien | Les imposteurs - 12h10
 
-DOS SANTOS Nicolas - FROMENTIN Victor | MyWatchList
+DOS SANTOS Nicolas - FROMENTIN Victor | MyWatchList - 14h00
 
-ROBLES Jeremie - NOEL Alexis | Les inconnus
+ROBLES Jeremie - NOEL Alexis | Les inconnus - 14h40
 
-COULIBALY Souleymane - LUPITISA MAYIKA Christ-Vie | ??
+COULIBALY Souleymane - LUPITISA MAYIKA Christ-Vie | ?? - 15h20
