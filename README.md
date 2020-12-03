@@ -99,9 +99,9 @@ La soutenance dure 20 minutes durant lesquelles les membres présentent leur tra
 # Groupes et fonctionnement
 FONTON Aros - LY David | Black&Yellow - 9h30
 
-IBIRIZ Noura - SOUSSAN Jimmy - TAVARES SEMEDO Gaëtan | DLM - 10h00
+IBIRIZ Noura - SOUSSAN Jimmy - TAVARES SEMEDO Gaëtan | DLM - 10h10
 
-STAES Pierrick - GIRARD Yohan | Groupe 1 - 10h30
+STAES Pierrick - GIRARD Yohan | Groupe 1 - 10h50
 
 MARTEAU Antoine - SAUMUROT Florian | Les Ksos - 11h30
 
