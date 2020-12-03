@@ -105,7 +105,7 @@ STAES Pierrick - GIRARD Yohan | Groupe 1 - 10h50
 
 MARTEAU Antoine - SAUMUROT Florian | Les Ksos - 11h30
 
-RALAIMIADANA Tanguy - EL GANA Bastien | Les imposteurs - 12h10
+RALAIMIADANA Tanguy - EL GANA Bastien | Les imposteurs - 13h15
 
 DOS SANTOS Nicolas - FROMENTIN Victor | MyWatchList - 14h00
 
